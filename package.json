@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "axios": "^1.4.0",
+    "psn-api": "^2.9.0",
+    "querystring": "^0.2.1"
+  }
+}
