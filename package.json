@@ -1,4 +1,12 @@
 {
+  "name": "psn-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node_test.js",
+  "author": "shinpansen",
+  "scripts": {
+    "start": "node node_test.js"
+  },
   "dependencies": {
     "axios": "^1.4.0",
     "psn-api": "^2.9.0",
